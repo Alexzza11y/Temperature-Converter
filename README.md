@@ -13,10 +13,6 @@ A simple and intuitive desktop application built with Java Swing that converts t
 - **Java Swing**: Graphical user interface components (`JFrame`, `JButton`, `JRadioButton`, `JTextField`).
 - **Lambda Expressions**: Used for concise and modern event handling.
 
-## Preview
-> [!TIP]
-> Add a screenshot of your app here to make the repository more attractive!
-
 ## How to Run
 1. Ensure you have **JDK 8** or higher installed on your machine.
 2. Clone this repository or download the `GFG.java` file.
